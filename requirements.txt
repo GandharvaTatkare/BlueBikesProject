@@ -1,8 +1,6 @@
 pandas
 numpy
-seaborn
-matplotlib
-scikit-learn
-catboost
-xgboost
-Flask
+pathlib
+zipfile
+tqdm
+meteostat
