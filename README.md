@@ -24,7 +24,7 @@
 
 ## 🔄 Data Flow Overview
 
-![Data Flow]("https://github.com/GandharvaTatkare/BlueBikesProject/blob/5aab7c46e19d4177cae00ea0c8596fa1d629cb86/data_flow.png")
+![image_alt](https://github.com/GandharvaTatkare/BlueBikesProject/blob/5aab7c46e19d4177cae00ea0c8596fa1d629cb86/data_flow.png)
 
 1. **Raw Files Zipped & Merged** (locally)
 2. **Uploaded to Azure Blob (Bronze)**
