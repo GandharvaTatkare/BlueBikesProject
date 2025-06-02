@@ -26,14 +26,7 @@
 
 ![image_alt](https://github.com/GandharvaTatkare/BlueBikesProject/blob/5aab7c46e19d4177cae00ea0c8596fa1d629cb86/data_flow.png)
 
-1. **Raw Files Zipped & Merged** (locally)
-2. **Uploaded to Azure Blob (Bronze)**
-3. **Azure Data Factory** – Clean & transform data into Silver layer
-4. **Databricks (PySpark)** – Further transformation and weather join → stored in Gold layer
-5. **Power BI** connects to the Gold layer for dashboards
-
 ---
-
 
 ## 📬 Contact
 
