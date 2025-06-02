@@ -24,7 +24,7 @@
 
 ## 🔄 Data Flow Overview
 
-![image_alt](https://github.com/GandharvaTatkare/BlueBikesProject/blob/5aab7c46e19d4177cae00ea0c8596fa1d629cb86/data_flow.png)
+![image_alt](https://github.com/GandharvaTatkare/BlueBikesProject/blob/d5cd4562d0612af5e0d3874e2ba6d76ba50ee685/data_flow.png)
 
 ---
 
